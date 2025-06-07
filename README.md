@@ -13,10 +13,6 @@ The analysis identifies a **critical traffic bottleneck** in the **Katugastota r
 
 ![Bottleneck – Normal View](bottleneck_normal.png)
 
-> 📌 _Ensure these images are saved in the `/images` directory or adjust the path accordingly._
-
----
-
 ## 🧪 Methodology
 The approach combines **simulated data** with **statistical and machine learning techniques**:
 
