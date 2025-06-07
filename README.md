@@ -5,8 +5,14 @@ This project presents a comprehensive analysis of traffic congestion in the **Ka
 
 ---
 
-## 🚧 Key Bottlenecks
-The analysis identifies **critical traffic bottlenecks** in the **Katugastota region**, backed by satellite and standard view imagery. These high-congestion zones are vital for understanding traffic delays and formulating effective mitigation strategies.
+## 🚧 Key Bottleneck
+The analysis identifies a **critical traffic bottleneck** in the **Katugastota region**, backed by satellite and standard view imagery. This high-congestion zone is vital for understanding traffic delays and formulating effective mitigation strategies.
+
+### 🖼️ Bottleneck Location – [Insert Area Name]
+![Bottleneck – Satellite View](images/bottleneck_satellite.jpg)
+![Bottleneck – Normal View](images/bottleneck_normal.jpg)
+
+> 📌 _Ensure these images are saved in the `/images` directory or adjust the path accordingly._
 
 ---
 
@@ -14,21 +20,21 @@ The analysis identifies **critical traffic bottlenecks** in the **Katugastota re
 The approach combines **simulated data** with **statistical and machine learning techniques**:
 
 - ⬇️ **Data simulation & preprocessing**  
-- 📈 **Correlation analysis**
-- 🤖 **K-Means clustering**
-- 🕓 **Temporal analysis** (e.g., daily/weekly traffic trends)
-- 🔍 **Anomaly detection** using Z-score & IQR methods
-- 📊 **Visual analytics** through static and interactive plots
+- 📈 **Correlation analysis**  
+- 🤖 **K-Means clustering**  
+- 🕓 **Temporal analysis** (e.g., daily/weekly traffic trends)  
+- 🔍 **Anomaly detection** using Z-score & IQR methods  
+- 📊 **Visual analytics** through static and interactive plots  
 
 ---
 
 ## 📊 Data Insights
 The study uncovers valuable traffic behavior insights:
 
-- 🔁 High correlation between **vehicle volume** and **traffic multipliers**
-- 🎉 Noticeable changes in traffic patterns during **holidays**
-- 🕓 Clear **hourly and daily traffic volume trends**
-- 🚗 Variation in **average speed** by day and time
+- 🔁 High correlation between **vehicle volume** and **traffic multipliers**  
+- 🎉 Noticeable changes in traffic patterns during **holidays**  
+- 🕓 Clear **hourly and daily traffic volume trends**  
+- 🚗 Variation in **average speed** by day and time  
 
 ---
 
@@ -49,9 +55,9 @@ Includes **static (Matplotlib/Seaborn)** and **interactive (Plotly)** visualizat
 ## 🧠 Rule-Based Detection
 Incorporates **rule-based detection logic** to:
 
-- Identify **outlier behaviors** in traffic flow
-- Classify **anomalous time windows**
-- Enhance accuracy in **congestion prediction**
+- Identify **outlier behaviors** in traffic flow  
+- Classify **anomalous time windows**  
+- Enhance accuracy in **congestion prediction**  
 
 ---
 
