@@ -8,9 +8,10 @@ This project presents a comprehensive analysis of traffic congestion in the **Ka
 ## 🚧 Key Bottleneck
 The analysis identifies a **critical traffic bottleneck** in the **Katugastota region**, backed by satellite and standard view imagery. This high-congestion zone is vital for understanding traffic delays and formulating effective mitigation strategies.
 
-### 🖼️ Bottleneck Location – [Insert Area Name]
-![Bottleneck – Satellite View](images/bottleneck_satellite.jpg)
-![Bottleneck – Normal View](images/bottleneck_normal.jpg)
+### 🖼️ Bottleneck Location – katugastota bridge
+![Bottleneck – Satellite View](bottleneck_satellite.jpg)
+
+![Bottleneck – Normal View](bottleneck_normal.png)
 
 > 📌 _Ensure these images are saved in the `/images` directory or adjust the path accordingly._
 
